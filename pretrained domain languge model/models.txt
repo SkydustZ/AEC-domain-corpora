@@ -1,4 +1,4 @@
 The pretrained AEC languge model can be download from:
 
-url: https://pan.baidu.com/s/15AvJKxNF2A_M_j-D_-p2Lg 
-password: lzn7
+url: https://pan.baidu.com/s/1_CZfn6nh5eoqLMdgzlo0zw  
+password: bbyv
